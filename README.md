@@ -5,6 +5,7 @@ Instead of writing static HTML code and hardcoding dynamic values, it's a better
 ## 🎉 Demo 
 
 ![app demo](Assets/subreddit.gif)
+
  &ast; *Subreddit content is generated from **data.json** included in the project.*
 
 ## ✨ Project Summary
